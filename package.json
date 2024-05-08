@@ -4,7 +4,7 @@
   "description": "course about node.js",
   "main": "index.js",
   "scripts": {
-    "start": "cross-env PORT=5000 NODE_ENV=VKVKVKVK node process.js"
+    "start": "nodemon ./lessons/do_it_yourself_express/index.js"
   },
   "author": "",
   "license": "ISC",
